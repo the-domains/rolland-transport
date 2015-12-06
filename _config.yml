@@ -1,7 +1,7 @@
 name: Rølland Transport
 favicon: null
-layout_spectrum: 0.5592889438848943
-typography_spectrum: 0.7773745039012283
+layout_spectrum: 0.24013
+typography_spectrum: 0.21659
 title: Rølland Transport - byggeplasstransport siden 1990
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.11593444412574172
+    - '#ffffff'
+    - '#1f232c'
+    - '#505050'
+    - '#8692a0'
+    - '#a5584e'
+  brandStrength: 0.5
   lightness: 0.44157036440446973
-  saturation: 0.6369772097095847
+  saturation: 0
   rhythmicContrast: 0.3460191306658089
 purpose: []
