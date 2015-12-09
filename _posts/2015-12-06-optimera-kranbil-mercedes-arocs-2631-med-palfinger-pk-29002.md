@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-06T20:31:11.466Z'
-dateModified: '2015-12-06T20:29:59.197Z'
+datePublished: '2015-12-09T18:13:03.404Z'
+dateModified: '2015-12-06T20:33:14.821Z'
 author: []
 title: Optimera Kranbil Mercedes Arocs 2631 med Palfinger PK 29002 kran
+sourcePath: _posts/2015-12-06-optimera-kranbil-mercedes-arocs-2631-med-palfinger-pk-29002.md
+published: true
 authors: []
 publisher:
   name: facebook.com
   domain: www.facebook.com
   url: null
   favicon: null
-sourcePath: _posts/2015-12-06-optimera-kranbil-mercedes-arocs-2631-med-palfinger-pk-29002.md
-published: true
 url: optimera-kranbil-mercedes-arocs-2631-med-palfinger-pk-29002/index.html
 _context: 'http://schema.org'
 _type: Article
