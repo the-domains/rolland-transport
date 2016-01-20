@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0
+  saturation: 1
   brandStrength: 0.5
-  rhythmicContrast: 0.3460191306658089
+  lightness: 0.5394265
   brandColors:
     - '#ffffff'
     - '#1f232c'
     - '#505050'
     - '#8692a0'
     - '#a5584e'
-  lightness: 0.4415703644044697
+  rhythmicContrast: 0.8835126
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Rølland Transport
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.5553191
-layout_spectrum: 0.2340426
+layout_spectrum: 0.327957
