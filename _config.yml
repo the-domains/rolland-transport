@@ -1,5 +1,8 @@
+name: Rølland Transport
+favicon: null
+layout_spectrum: 0.24907
+typography_spectrum: 0.5553191
 title: Rølland Transport - byggeplasstransport siden 1990
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 1
-  brandStrength: 0.5
-  lightness: 0.5394265
-  brandColors:
-    - '#ffffff'
-    - '#1f232c'
-    - '#505050'
-    - '#8692a0'
-    - '#a5584e'
-  rhythmicContrast: 0.8835126
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-name: Rølland Transport
-favicon: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.5553191
-layout_spectrum: 0.327957
+color:
+  brandColors:
+    - '#3a3a3c'
+    - '#f4f5f5'
+    - '#aaabaa'
+    - '#d3d3d3'
+    - '#707171'
+  brandStrength: 1
+  lightness: 0.5394265
+  saturation: 1
+  rhythmicContrast: 0.8835126
+purpose: []
